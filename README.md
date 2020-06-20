@@ -25,3 +25,5 @@ Build with Node and React. Picks a random Option out of a List of Options that t
 ## Installation
 - Run **_npm install_** or **_yarn install_** to install all dependencies.
 - To start the dev server, use: **_npm run dev-server_** or **_yarn run dev-server_**
+- **_npm run build_** or **_yarn run build_** will build a new bundle.js file. Do this if you make changes to the app.
+- Lastly, to run the Live Server, run the **server** script.
